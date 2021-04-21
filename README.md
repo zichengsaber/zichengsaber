@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zichengsaber
-- 👀 I’m interested in : deeplearning for computer vision and os
-- 🌱 I’m currently learning :object detaction
+- 👀 I’m interested in : deeplearning for computer vision and machine learning
+- 🌱 I’m currently learning :object detaction,java,Android app development
 - 📫 How to reach me : zzczzc.1221@gmail.com
 
 <!---
