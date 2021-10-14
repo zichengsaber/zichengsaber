@@ -2,7 +2,7 @@
 - 🎓 Education : Bachelor in XJTU (2018-2022)
 - 🔨 Programming Language : Python,C/C++, java
 - 👀 I’m interested in : Deeplearning for Computer Vision and Machine Learning , Operating System
-- 🌱 I’m currently learning :object detaction,java,Android app development
+- 🌱 I’m currently learning :object detaction
 - 📫 How to reach me : zzczzc.1221@gmail.com
 
 <!---
