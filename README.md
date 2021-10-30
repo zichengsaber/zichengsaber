@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zichengsaber
 - 🎓 Education : Bachelor in XJTU (2018-2022)
-- 🔨 Programming Language : Python,C/C++, java
-- 👀 I’m interested in : Deeplearning for Computer Vision and Machine Learning , Operating System
-- 🌱 I’m currently learning :object detaction
+- 🔨 Programming Language : Python,C/C++, Java
+- 👀 I’m interested in : Deeplearning for Computer Vision , Machine Learning , Operating System
+- 🌱 I’m currently learning :object detaction, Semantic/Instance Segmentation
 - 📫 How to reach me : zzczzc.1221@gmail.com
 
 <!---
