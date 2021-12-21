@@ -3,7 +3,7 @@
 - 🎓 Education : Bachelor in XJTU (2018-2022)，Master in XJTU (2022-)
 - 🔨 Programming Language : Python,C/C++,Java
 - 👀 I’m interested in : Deeplearning for Computer Vision , self-supervise learning
-- 🌱 I’m currently learning : Referring semantic segmentation
+- 🌱 I’m currently learning : Referring Image segmentation
 - 📫 How to reach me : zzczzc.1221@gmail.com
 
 <!---
