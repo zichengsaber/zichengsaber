@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @zichengsaber
 - 🏫 School: Xi'an Jiaotong University
+- 🏢 Company: HUAWEI Noah's Ark Lab, Shenzhen (2022-)
 - 🎓 Education : Bachelor in XJTU (2018-2022)，Master in XJTU (2022-)
-- 🔨 Programming Language : Python,C/C++,Java
+- 🔨 Programming Language : Python,C/C++
 - 👀 I’m interested in : Deeplearning for Computer Vision , self-supervise learning, contrastive learning
 - 🌱 I’m currently learning : Referring Image segmentation
 - 📫 How to contact me : for e-mail: zzczzc.1221@gmail.com or 599029399@qq.com (maybe this will be better if you use e-mail in China)
