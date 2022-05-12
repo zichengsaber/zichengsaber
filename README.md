@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zicheng Zhange
+- 👋 Hi, I’m Zhang Zicheng
 - 🏫 School: Xi'an Jiaotong University
 - 🏢 Company: HUAWEI Noah's Ark Lab, Shenzhen (2022-)
 - 🎓 Education : Bachelor in XJTU (2018-2022)，Master in XJTU (2022-)
