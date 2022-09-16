@@ -5,7 +5,7 @@
 - 🔨 Programming Language : Python,C/C++
 - 👀 I’m interested in : Deeplearning for Computer Vision , self-supervise learning, contrastive learning
 - 🌱 I’m currently learning : Referring Image segmentation
-- 📫 How to contact me : for e-mail: zzczzc.1221@gmail.com or 599029399@qq.com (maybe this will be better if you use e-mail in China)
+- 📫 How to contact me : for e-mail: zzczzc.1221@gmail.com or  ZichengZhang915@outlook.com
 
 <!---
 zichengsaber/zichengsaber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
