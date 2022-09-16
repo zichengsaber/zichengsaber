@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhang Zicheng
 - 🏫 School: Xi'an Jiaotong University
-- 🏢 Company: HUAWEI Noah's Ark Lab, Shenzhen (2022-)
+- 🏢 Company:Internel in HUAWEI Noah's Ark Lab, Shenzhen (2022.3-2022.8)
 - 🎓 Education : Bachelor in XJTU (2018-2022)，Master in XJTU (2022-)
 - 🔨 Programming Language : Python,C/C++
 - 👀 I’m interested in : Deeplearning for Computer Vision , self-supervise learning, contrastive learning
